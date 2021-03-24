@@ -1,6 +1,3 @@
-# Solution
-solution*
-
 # Prerequisites
 *.d
 
@@ -33,5 +30,3 @@ solution*
 *.exe
 *.out
 *.app
-demo
-test

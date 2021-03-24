@@ -7,10 +7,11 @@
 
 #include "Board.hpp"
 #include "Direction.hpp"
-using ariel::Direction;
 
 #include <iostream>
 #include <stdexcept>
+
+using ariel::Direction;
 using namespace std;
 
 int main() {
